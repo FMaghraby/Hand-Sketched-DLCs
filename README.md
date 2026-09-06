@@ -1,4 +1,5 @@
-# DLC-OD: A Hand-Sketched Digital Logic Circuits Dataset for Object Detection
+# DLC-OD: Hand-Sketched-DLCs
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22553253.svg)](https://doi.org/10.5281/zenodo.22553253)
 
