@@ -13,3 +13,10 @@ https://doi.org/10.5281/zenodo.22553253
 
 This dataset is distributed under the Creative Commons Attribution
 4.0 International License (CC BY 4.0).
+
+## Reproducibility Code
+
+The training, CAM generation, evaluation, and reproducibility code
+associated with this dataset is available at:
+
+https://github.com/FMaghraby/Layer-Wise-CAM-YOLOv8-Reproducibility
